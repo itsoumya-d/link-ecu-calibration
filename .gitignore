@@ -1,0 +1,4 @@
+build/
+dashboard.html
+.DS_Store
+*.log
